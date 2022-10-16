@@ -30,8 +30,7 @@ const pegaskills = () => {
                             <li class="shadow p-2 mb-2 bg-body rounded">Understand and can work independently using SQL (mySQL, SQL, DB2, ORACLE)</li>
                             <li class="shadow p-2 mb-2 bg-body rounded">SOAPUI/SOA - For testing services and connectors</li>
                             <li class="shadow p-2 mb-2 bg-body rounded">Have been working on different phases of environment</li>
-                            <li class="shadow p-2 mb-2 bg-body rounded">Understand and able to use custom HTML/CSS javascript in PEGA application if
-                            necessary.</li>
+                            <li class="shadow p-2 mb-2 bg-body rounded">Understand and able to use custom HTML/CSS javascript in PEGA application</li>
                         </ul> 
                     </div>
             </li>            
