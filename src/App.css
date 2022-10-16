@@ -36,3 +36,176 @@
     transform: rotate(360deg);
   }
 }
+.float-container {
+  border: 3px solid #fff;
+  padding: 5% 5% 5% 5%;
+}
+
+
+
+#rightpanel{  
+  width: 80%;
+  padding: 80px 20px;
+}
+
+#piccontainer{
+  display: flex;  
+  float: left;
+  justify-content: flex-end;
+  padding: 80px 20px;
+}
+
+#profilepic{
+  width: 60%;
+  height: 98%;
+}
+
+#homefontsize{
+  font-size: 24px;
+  cursor:pointer;
+}
+
+#socmed{
+  padding-top: 35px;
+}
+
+.modicon{
+  margin-right: 1rem;
+  size:35x;
+}
+.emailicon{
+  size:45x;
+}
+
+#certcontainer {
+  padding-top: 50px;
+  width: 75%;
+}
+#skillcontainer {
+  padding-top: 36px;
+}
+
+#educcontainer {
+  padding-top: 10px;
+}
+
+#procert{
+  text-align: -webkit-center;
+  width: 35%;
+}
+
+#certrowcontainer{
+  text-align: center;
+}
+
+#emailcontainer{
+  border: 1px solid black;
+}
+
+#sendemailcontainer{
+  padding-top: 0px;
+}
+
+#workexperience{
+  border: 1px solid black;
+  height: 100px;
+  width: 95%;
+  padding-top: 20px;
+}
+
+#workleft{
+}
+
+
+#workmiddle{
+  padding-top: 63px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#workright{ 
+}
+
+#navtext{
+  margin: inherit;
+}
+
+#corepage{
+  height: 100%;
+}
+#navbar{
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  height: 80px;
+  background-color: #76b9d1 !important;
+  color: white;
+}
+
+.list-group-scroll{
+  max-height: 300px;
+  margin-bottom: 10px;
+  overflow-y:scroll;
+  -webkit-overflow-scrolling: touch;
+}
+
+.pegainfo{
+  margin-left: 5px;
+  margin-bottom: 5px;  
+  cursor:pointer;
+}
+#workheader {
+  border-radius: 10px;
+  background: #76b9d1;   
+  text-align: center;
+  padding: 10px; 
+  margin-bottom: 10px;
+  color: white;
+}
+
+#listgroupheader{  
+  background: #76b9d1;   
+  border-color:#76b9d1;
+}
+
+#sendemailbtn{   
+  border-color:#76b9d1 ;
+  margin-left: 20px;
+}
+
+#downloadbtn{   
+  border-color:#76b9d1 ;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+#emailHelp{
+text-align: left;
+}
+
+.form-check{
+  text-align: left;
+}
+
+#offcanvasRightLabel{
+}
+ul>li {
+  list-style-type: none;
+}
+
+#alignz{
+  text-align: right;
+}
+
+#expdetails{
+  padding: 20px 60px 20px 60px;
+  text-align: justify;
+}
+
+#offcanvasRight{
+  background-color:#76b9d1;   
+  color: white;
+}
+#notfound{
+  text-align: center;
+}

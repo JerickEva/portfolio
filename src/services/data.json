@@ -1,0 +1,97 @@
+
+ {
+    "pegaVskills":[
+      
+                {
+                    "id": 1,
+                    "version": "PEGA Version 8.6"
+                },
+                {
+                    "id": 2,
+                    "version": "PEGA Version 8.3"
+                },
+                {
+                    "id": 3,
+                    "version": "PEGA Version 8.1"
+                },
+                {
+                    "id": 4,
+                    "version": "PEGA Version 7.4"
+                },
+                {
+                    "id": 5,
+                    "version": "PEGA Version 7.2"
+                }
+    ],
+    "techskills":[      
+        
+                {
+                    "id": 1,
+                    "title": "React JS"
+                },
+                {
+                    "id": 2,
+                    "title": "HTML"
+                },
+                {
+                    "id": 3,
+                    "title": "Bootstrap"
+                },
+                {
+                    "id": 4,
+                    "title": "MDBootstrap"
+                },
+                {
+                    "id": 5,
+                    "title": "CSS"
+                },
+                {
+                    "id": 6,
+                    "title": "GIT"
+                },{
+                    "id": 7,
+                    "title": "MySQL/DB2"
+                },{
+                    "id": 8,
+                    "title": "Basic Java"
+                },
+                {
+                    "id": 9,
+                    "title": "Basic Javascript"
+                }
+],"charreferences":[
+                {
+                    "name": "Nabeel Zaheer",
+                    "position":"PEGA Analyst",
+                    "companyname":"NCS Pte. Ltd.",
+                    "mobilenumber":"(+65) 93866474",
+                    "emailaddress":"nabeel.zaheer.mt@gmail.com",
+                    "reltoref":"Colleague"
+                },
+                {
+                    "name": "Thushan Anuruddha",
+                    "position":"Lead Consultant",
+                    "companyname":"Central Provident Fund Board",
+                    "mobilenumber":"(+65) 98680639",
+                    "emailaddress":"Thushan0716@gmail.com",
+                    "reltoref":"Colleague"
+                },
+                {
+                    "name": "Jerick Eva",
+                    "position":"Lead Consultant",
+                    "companyname":"HCL Technologies",
+                    "mobilenumber":"1111111111",
+                    "emailaddress":"evajerick21@gmail.com",
+                    "reltoref":"classmate"
+                },
+                {
+                    "name": "Jerick Eva",
+                    "position":"Lead Consultant",
+                    "companyname":"HCL Technologies",
+                    "mobilenumber":"1111111111",
+                    "emailaddress":"evajerick21@gmail.com",
+                    "reltoref":"classmate"
+                }
+]
+   }
+  
